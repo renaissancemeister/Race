@@ -1,1 +1,1 @@
-Sitemap: https://raceorg.netlify.com/sitemap.xml
+Sitemap: https://archive.race.org/sitemap.xml
